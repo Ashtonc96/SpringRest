@@ -8,7 +8,7 @@
 		<version>2.1.3.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.ashton.springrest</groupId>
+	<groupId>com.ashton</groupId>
 	<artifactId>SpringRest</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>SpringRest</name>
